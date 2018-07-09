@@ -1,0 +1,24 @@
+中文名：太空狗
+英文名：Dogzcoin(dogz)
+总量1000亿
+
+
+
+区块大小： 2MB   
+证明方式： POW+POS    
+算法  POW(Scrypt)+POS（PoSv3）       
+区块速度：60 秒
+
+
+2. 节点机器的IP地址或者域名  
+
+xxx.xxxx.xxx.xx
+
+3. 主程序图标, 256*256 PNG格式背景透明
+
+
+
+GetDefaultRPCPort
+11512 : 15732;
+GetDefaultPort
+11511 : 15731;
